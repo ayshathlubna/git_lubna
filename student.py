@@ -1,6 +1,6 @@
-student_name = "Anu"
+student_name = "Anu mary"
 
-mark1 = 85
+mark1 = 185
 mark2 = 90
 mark3 = 80
 
