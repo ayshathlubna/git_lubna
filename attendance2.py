@@ -1,4 +1,6 @@
-student_name = "Anu fathima"
+
+student_name = "Anu thomas"
+
 
 attendance = 90
 
